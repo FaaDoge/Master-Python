@@ -122,3 +122,14 @@ if nombre == "Fabri":
         print(nombre, numero2)
 else:
     print("No coincide con ninguno")
+
+
+# Operadores Logicos
+
+'''
+or
+and
+!
+not
+
+'''
