@@ -133,3 +133,36 @@ and
 not
 
 '''
+
+
+# BUCLES ESTRUCTURAS REPETITIVAS
+
+
+'''
+for variable in elemento(Lista,rango,etc):
+    (Intrucciones de codigo)
+
+'''
+lista=[23,434,54,5,65,6]
+
+for item in lista:
+    print(item)
+
+
+for i in range (0,10):
+    print(i)
+else:
+    print("tabla finalizada") # Se puede usar un else al finalizar el for
+
+
+# para cortar break y para hacer un salto se usa continue
+
+
+# WHILE
+
+c=0
+while c < 10:
+    c+=1
+else:
+    print("termine")
+
