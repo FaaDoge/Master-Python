@@ -167,6 +167,3 @@ while c < 10:
     c+=1
 else:
     print("termine")
-
-
-
