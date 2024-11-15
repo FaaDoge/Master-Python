@@ -85,8 +85,10 @@ Operadores de asignación:
 - Resta y asignación (-=)
 """
 
-# Incremento y decremento
+# Igualdad
 num = 10
+
+# Incremento y decremento
 num += 1
 num -= 1
 
@@ -165,4 +167,6 @@ while c < 10:
     c+=1
 else:
     print("termine")
+
+
 
